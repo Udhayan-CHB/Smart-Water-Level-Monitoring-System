@@ -7,10 +7,10 @@ It automatically detects the water level in a tank and controls the pump in AUTO
 
 🧠 Features
 
-# Measures water level using ultrasonic sensing
-# Automatic pump control based on water level
-# Manual control via push button
-# Saves maximum water height to EEPROM
+1) Measures water level using ultrasonic sensing
+2) Automatic pump control based on water level
+3) Manual control via push button
+4) Saves maximum water height to EEPROM
 
 # LCD display shows:
 
