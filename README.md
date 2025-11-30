@@ -14,6 +14,14 @@ It automatically detects the water level in a tank and controls the pump in AUTO
 
 # LCD display shows:
 
- > Water level %
- > Pump status (ON/OFF)
- > Current mode (AUTO / MANUAL)
+1) Water level %
+2) Pump status (ON/OFF)
+3) Current mode (AUTO / MANUAL)
+
+▶️ How to Use
+
+1) Power the system 🟢
+2) Press SET button once to store the current tank height to EEPROM
+3) System enters AUTO mode pumping based on water percentage
+4) Press MODE button to toggle AUTO/MANUAL
+5) In MANUAL mode, press SET button to toggle pump ON/OFF
